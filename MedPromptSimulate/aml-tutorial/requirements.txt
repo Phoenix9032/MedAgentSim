@@ -1,3 +1,4 @@
 aether-utils==0.0.1.dev1
 azure-ai-ml
 datasets
+marshmallow>=3.26.2 # not directly required, pinned by Snyk to avoid a vulnerability
