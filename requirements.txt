@@ -12,7 +12,7 @@ vLLM
 accelerate>=0.26.0
 
 # Web and Async Libraries
-aiohttp==3.8.3
+aiohttp==3.13.3
 aiosignal==1.3.1
 async-generator==1.10
 async-timeout==4.0.2
